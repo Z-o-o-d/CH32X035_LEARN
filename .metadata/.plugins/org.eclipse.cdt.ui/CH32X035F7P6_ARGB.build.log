@@ -1,0 +1,7 @@
+00:39:11 **** ¹¹½¨ of configuration obj for project CH32X035F7P6_ARGB ****
+make -j20 all 
+   text	   data	    bss	    dec	    hex	filename
+  10860	    176	   2572	  13608	   3528	CH32X035F7P6_ARGB.elf
+
+00:39:12 Build Finished. 0 errors, 0 warnings. (took 758ms)
+

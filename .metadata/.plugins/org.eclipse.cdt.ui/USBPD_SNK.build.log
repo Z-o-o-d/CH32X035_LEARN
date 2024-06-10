@@ -1,0 +1,7 @@
+00:43:22 **** ¹¹½¨ of configuration obj for project USBPD_SNK ****
+make -j20 all 
+   text	   data	    bss	    dec	    hex	filename
+   9680	    208	   2212	  12100	   2f44	USBPD_SNK.elf
+
+00:43:23 Build Finished. 0 errors, 0 warnings. (took 898ms)
+

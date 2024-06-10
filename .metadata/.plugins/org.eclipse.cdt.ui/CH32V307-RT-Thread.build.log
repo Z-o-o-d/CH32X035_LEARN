@@ -1,0 +1,11 @@
+00:51:56 **** ¹¹½¨ of configuration obj for project CH32V307-RT-Thread ****
+make -j20 all 
+../rtthread/src/object.c: In function 'rt_object_init':
+../rtthread/src/object.c:262:27: warning: variable 'obj' set but not used [-Wunused-but-set-variable]
+         struct rt_object *obj;
+                           ^~~
+   text	   data	    bss	    dec	    hex	filename
+  27320	    472	   7584	  35376	   8a30	CH32V307-RT-Thread.elf
+
+00:51:57 Build Finished. 0 errors, 1 warnings. (took 1s.449ms)
+

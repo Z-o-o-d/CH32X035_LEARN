@@ -1,0 +1,7 @@
+00:53:34 **** ¹¹½¨ of configuration obj for project CH372Device ****
+make -j20 all 
+   text	   data	    bss	    dec	    hex	filename
+  11292	    328	  12444	  24064	   5e00	CH372Device.elf
+
+00:53:35 Build Finished. 0 errors, 0 warnings. (took 190ms)
+

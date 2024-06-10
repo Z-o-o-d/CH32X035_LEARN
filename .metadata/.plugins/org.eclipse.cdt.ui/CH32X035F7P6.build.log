@@ -1,0 +1,11 @@
+02:05:17 **** ¹¹½¨ of configuration obj for project CH32X035F7P6 ****
+make -j20 all 
+../User/main.c: In function 'main':
+../User/main.c:98:8: warning: unused variable 'i' [-Wunused-variable]
+     u8 i = 0;
+        ^
+   text	   data	    bss	    dec	    hex	filename
+   7304	    160	   2068	   9532	   253c	CH32X035F7P6.elf
+
+02:05:18 Build Finished. 0 errors, 1 warnings. (took 807ms)
+

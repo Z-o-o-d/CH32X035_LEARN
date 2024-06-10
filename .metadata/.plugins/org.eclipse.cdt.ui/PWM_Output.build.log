@@ -1,0 +1,7 @@
+23:44:02 **** ¹¹½¨ of configuration obj for project PWM_Output ****
+make -j20 all 
+   text	   data	    bss	    dec	    hex	filename
+   6648	    160	   2060	   8868	   22a4	PWM_Output.elf
+
+23:44:03 Build Finished. 0 errors, 0 warnings. (took 808ms)
+

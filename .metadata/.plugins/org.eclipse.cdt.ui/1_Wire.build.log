@@ -1,0 +1,7 @@
+21:43:52 **** ¹¹½¨ of configuration obj for project 1_Wire ****
+make -j20 all 
+   text	   data	    bss	    dec	    hex	filename
+   8432	    240	   2068	  10740	   29f4	1_Wire.elf
+
+21:43:53 Build Finished. 0 errors, 0 warnings. (took 754ms)
+

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="删除资源“PWM_Output”" deleteContents="false" description="删除资源“PWM_Output”" element1="/PWM_Output" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1717677211627"/>&#x0A;<refactoring comment="删除资源“TIM_DMA”" deleteContents="false" description="删除资源“TIM_DMA”" element1="/TIM_DMA" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1717677225252"/>
+</session>

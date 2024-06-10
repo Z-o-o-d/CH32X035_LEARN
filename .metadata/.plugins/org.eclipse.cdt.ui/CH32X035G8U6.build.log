@@ -1,0 +1,7 @@
+23:51:19 **** Incremental Build of configuration obj for project CH32X035G8U6 ****
+make -j20 all 
+   text	   data	    bss	    dec	    hex	filename
+   6592	    160	   2068	   8820	   2274	CH32X035G8U6.elf
+
+23:51:20 Build Finished. 0 errors, 0 warnings. (took 366ms)
+

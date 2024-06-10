@@ -1,0 +1,7 @@
+21:17:45 **** ¹¹½¨ of configuration obj for project TIM_DMA ****
+make -j20 all 
+   text	   data	    bss	    dec	    hex	filename
+   7044	    168	   2060	   9272	   2438	TIM_DMA.elf
+
+21:17:46 Build Finished. 0 errors, 0 warnings. (took 744ms)
+

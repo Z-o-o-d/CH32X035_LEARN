@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+syntaxcolor.comment=98,151,85
+syntaxcolor.live.bracket.matching.color=104,134,81
+syntaxcolor.live.bracket.matching.enabled=true
+syntaxcolor.number.literal=104,151,187
+syntaxcolor.private.non.system.symbol=152,118,170
+syntaxcolor.public.non.system.symbols=82,227,246
+syntaxcolor.string.literal=104,134,81
+syntaxcolor.symbol.conflict.local=255,0,0
+syntaxcolor.symbol.local=168,182,198
+syntaxcolor.symbol.package=255,198,108
+syntaxcolor.symbol.system=204,120,50

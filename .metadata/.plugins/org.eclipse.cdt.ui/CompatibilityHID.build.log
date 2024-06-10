@@ -1,0 +1,7 @@
+00:53:35 **** ¹¹½¨ of configuration obj for project CompatibilityHID ****
+make -j20 all 
+   text	   data	    bss	    dec	    hex	filename
+  13204	    296	  19652	  33152	   8180	CompatibilityHID.elf
+
+00:53:35 Build Finished. 0 errors, 0 warnings. (took 187ms)
+

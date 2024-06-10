@@ -1,0 +1,7 @@
+01:52:31 **** ¹¹½¨ of configuration obj for project X035ARGB ****
+make -j20 all 
+   text	   data	    bss	    dec	    hex	filename
+   6608	    160	   2060	   8828	   227c	X035ARGB.elf
+
+01:52:31 Build Finished. 0 errors, 0 warnings. (took 754ms)
+
