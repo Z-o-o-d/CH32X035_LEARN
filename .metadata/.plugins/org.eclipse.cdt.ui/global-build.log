@@ -1,30 +1,8 @@
-02:00:05 **** Incremental Build of configuration obj for project CH32X035F7P6 ****
+02:52:41 **** Incremental Build of configuration obj for project CH32X035F7P6 ****
 make -j20 all 
 ../User/main.c: In function 'main':
-../User/main.c:94:8: warning: unused variable 'i' [-Wunused-variable]
+../User/main.c:105:8: warning: unused variable 'i' [-Wunused-variable]
      u8 i = 0;
         ^
    text	   data	    bss	    dec	    hex	filename
-   7104	    160	   2068	   9332	   2474	CH32X035F7P6.elf
-02:04:47 **** 仅清理的构建 of configuration obj for project CH32X035F7P6 ****
-make -j20 clean 
-rm -rf  ./User/ch32x035_it.o ./User/main.o ./User/system_ch32x035.o  ./Startup/startup_ch32x035.o  ./Peripheral/src/ch32x035_adc.o ./Peripheral/src/ch32x035_awu.o ./Peripheral/src/ch32x035_dbgmcu.o ./Peripheral/src/ch32x035_dma.o ./Peripheral/src/ch32x035_exti.o ./Peripheral/src/ch32x035_flash.o ./Peripheral/src/ch32x035_gpio.o ./Peripheral/src/ch32x035_i2c.o ./Peripheral/src/ch32x035_iwdg.o ./Peripheral/src/ch32x035_misc.o ./Peripheral/src/ch32x035_opa.o ./Peripheral/src/ch32x035_pwr.o ./Peripheral/src/ch32x035_rcc.o ./Peripheral/src/ch32x035_spi.o ./Peripheral/src/ch32x035_tim.o ./Peripheral/src/ch32x035_usart.o ./Peripheral/src/ch32x035_wwdg.o  ./Debug/debug.o  ./Core/core_riscv.o  CH32X035F7P6.hex  CH32X035F7P6.lst  CH32X035F7P6.siz  ./Startup/startup_ch32x035.d  ./User/ch32x035_it.d ./User/main.d ./User/system_ch32x035.d  ./Peripheral/src/ch32x035_adc.d ./Peripheral/src/ch32x035_awu.d ./Peripheral/src/ch32x035_dbgmcu.d ./Peripheral/src/ch32x035_dma.d ./Peripheral/src/ch32x035_exti.d ./Peripheral/src/ch32x035_flash.d ./Peripheral/src/ch32x035_gpio.d ./Peripheral/src/ch32x035_i2c.d ./Peripheral/src/ch32x035_iwdg.d ./Peripheral/src/ch32x035_misc.d ./Peripheral/src/ch32x035_opa.d ./Peripheral/src/ch32x035_pwr.d ./Peripheral/src/ch32x035_rcc.d ./Peripheral/src/ch32x035_spi.d ./Peripheral/src/ch32x035_tim.d ./Peripheral/src/ch32x035_usart.d ./Peripheral/src/ch32x035_wwdg.d  ./Debug/debug.d  ./Core/core_riscv.d  CH32X035F7P6.elf
-02:04:48 **** 构建 of configuration obj for project CH32X035F7P6 ****
-make -j20 all 
-../User/main.c: In function 'main':
-../User/main.c:98:8: warning: unused variable 'i' [-Wunused-variable]
-     u8 i = 0;
-        ^
-   text	   data	    bss	    dec	    hex	filename
-   7300	    160	   2068	   9528	   2538	CH32X035F7P6.elf
-02:05:17 **** 仅清理的构建 of configuration obj for project CH32X035F7P6 ****
-make -j20 clean 
-rm -rf  ./User/ch32x035_it.o ./User/main.o ./User/system_ch32x035.o  ./Startup/startup_ch32x035.o  ./Peripheral/src/ch32x035_adc.o ./Peripheral/src/ch32x035_awu.o ./Peripheral/src/ch32x035_dbgmcu.o ./Peripheral/src/ch32x035_dma.o ./Peripheral/src/ch32x035_exti.o ./Peripheral/src/ch32x035_flash.o ./Peripheral/src/ch32x035_gpio.o ./Peripheral/src/ch32x035_i2c.o ./Peripheral/src/ch32x035_iwdg.o ./Peripheral/src/ch32x035_misc.o ./Peripheral/src/ch32x035_opa.o ./Peripheral/src/ch32x035_pwr.o ./Peripheral/src/ch32x035_rcc.o ./Peripheral/src/ch32x035_spi.o ./Peripheral/src/ch32x035_tim.o ./Peripheral/src/ch32x035_usart.o ./Peripheral/src/ch32x035_wwdg.o  ./Debug/debug.o  ./Core/core_riscv.o  CH32X035F7P6.hex  CH32X035F7P6.lst  CH32X035F7P6.siz  ./Startup/startup_ch32x035.d  ./User/ch32x035_it.d ./User/main.d ./User/system_ch32x035.d  ./Peripheral/src/ch32x035_adc.d ./Peripheral/src/ch32x035_awu.d ./Peripheral/src/ch32x035_dbgmcu.d ./Peripheral/src/ch32x035_dma.d ./Peripheral/src/ch32x035_exti.d ./Peripheral/src/ch32x035_flash.d ./Peripheral/src/ch32x035_gpio.d ./Peripheral/src/ch32x035_i2c.d ./Peripheral/src/ch32x035_iwdg.d ./Peripheral/src/ch32x035_misc.d ./Peripheral/src/ch32x035_opa.d ./Peripheral/src/ch32x035_pwr.d ./Peripheral/src/ch32x035_rcc.d ./Peripheral/src/ch32x035_spi.d ./Peripheral/src/ch32x035_tim.d ./Peripheral/src/ch32x035_usart.d ./Peripheral/src/ch32x035_wwdg.d  ./Debug/debug.d  ./Core/core_riscv.d  CH32X035F7P6.elf
-02:05:17 **** 构建 of configuration obj for project CH32X035F7P6 ****
-make -j20 all 
-../User/main.c: In function 'main':
-../User/main.c:98:8: warning: unused variable 'i' [-Wunused-variable]
-     u8 i = 0;
-        ^
-   text	   data	    bss	    dec	    hex	filename
-   7304	    160	   2068	   9532	   253c	CH32X035F7P6.elf
+   7476	    160	   2068	   9704	   25e8	CH32X035F7P6.elf
