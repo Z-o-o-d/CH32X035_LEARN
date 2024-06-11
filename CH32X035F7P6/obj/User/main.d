@@ -21,7 +21,8 @@ User/main.o: ../User/main.c \
  C:\MRS_DATA\workspace\CH32X035F7P6\Peripheral\inc/ch32x035_usart.h \
  C:\MRS_DATA\workspace\CH32X035F7P6\Peripheral\inc/ch32x035_wwdg.h \
  C:\MRS_DATA\workspace\CH32X035F7P6\User/ch32x035_it.h \
- C:\MRS_DATA\workspace\CH32X035F7P6\Peripheral\inc/ch32x035_misc.h
+ C:\MRS_DATA\workspace\CH32X035F7P6\Peripheral\inc/ch32x035_misc.h \
+ C:\MRS_DATA\workspace\CH32X035F7P6\Peripheral\inc/ch32x035_opa.h
 
 C:\MRS_DATA\workspace\CH32X035F7P6\Debug/debug.h:
 
@@ -68,3 +69,5 @@ C:\MRS_DATA\workspace\CH32X035F7P6\Peripheral\inc/ch32x035_wwdg.h:
 C:\MRS_DATA\workspace\CH32X035F7P6\User/ch32x035_it.h:
 
 C:\MRS_DATA\workspace\CH32X035F7P6\Peripheral\inc/ch32x035_misc.h:
+
+C:\MRS_DATA\workspace\CH32X035F7P6\Peripheral\inc/ch32x035_opa.h:

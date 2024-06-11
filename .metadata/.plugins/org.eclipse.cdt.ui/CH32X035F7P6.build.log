@@ -1,11 +1,7 @@
-02:52:41 **** Incremental Build of configuration obj for project CH32X035F7P6 ****
+22:02:12 **** ¹¹½¨ of configuration obj for project CH32X035F7P6 ****
 make -j20 all 
-../User/main.c: In function 'main':
-../User/main.c:105:8: warning: unused variable 'i' [-Wunused-variable]
-     u8 i = 0;
-        ^
    text	   data	    bss	    dec	    hex	filename
-   7476	    160	   2068	   9704	   25e8	CH32X035F7P6.elf
+   7748	    160	   2068	   9976	   26f8	CH32X035F7P6.elf
 
-02:52:41 Build Finished. 0 errors, 1 warnings. (took 374ms)
+22:02:13 Build Finished. 0 errors, 0 warnings. (took 873ms)
 
